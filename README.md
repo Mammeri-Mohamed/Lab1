@@ -1,7 +1,8 @@
-  comparaison entre resultats : 
-           exercice 1 :   n'est pas le meme resultat
-           exericice 2 :  n'est pas le meme resultat
-           exercice 3  :  n'est pas le meme resultat
-          exerice  4 :  le meme resulat 
-          exerice 5 :   n'est pas le meme resultat
-          exercie 6 :  n'est pas le meme resultat
+  Comparaison entre résultats :
+   Exercice 1 :   n'est pas le même résultat
+   Exercice 2 :   n'est pas le même résultat
+   Exercice 3 :   n'est pas le même résultat
+   Exercice 4 :   le même résultat
+   Exercice 5 :   n'est pas le même résultat
+   Exercice 6 :   n'est pas le même résultat
+
